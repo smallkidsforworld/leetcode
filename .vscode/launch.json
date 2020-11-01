@@ -1,0 +1,448 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d834<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "d834",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.KMP",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MathRelative<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.MathRelative",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RecentCounter<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.RecentCounter",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-C<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.competition.TheTwoHundred.C",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-D<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.competition.TheTwoHundred.D",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-binarySearchInTwoDimion<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.competition.binarySearchInTwoDimion",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.competition.test",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d10<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d10",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1002<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1002",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1014<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1014",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1024<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1024",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1028<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1028",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d120<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d120",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d125<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d125",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1291<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1291",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d1365<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d1365",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d139<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d139",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d143<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d143",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d15<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d15",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d17<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d17",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d171<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d171",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d174<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d174",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d18<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d18",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d198<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d198",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d2<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d2",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d20<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d20",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d207<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d207",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d234<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d234",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d3<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d3",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d312<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d312",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d329<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d329",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d33<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d33",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d35<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d35",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d350<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d350",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d392<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d392",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d41<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d41",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d44<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d44",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d45<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d45",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d498<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d498",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d5<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d5",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d53<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d53",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d6<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d6",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d60<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d60",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d64<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d64",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d646<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d646",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d69<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d69",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d7<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d7",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d763<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d763",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d79<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d79",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d8<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d8",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d845<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d845",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d9<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d9",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d925<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.d925",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-df1618<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.df1618",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jianzhi59<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.jianzhi59",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-m1713<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.m1713",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practice<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.practice",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d20<leetcode_b0f0db38>(1)",
+            "request": "launch",
+            "mainClass": "java.stack.d20",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d224<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.stack.d224",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-d71<leetcode_b0f0db38>",
+            "request": "launch",
+            "mainClass": "java.stack.d71",
+            "projectName": "leetcode_b0f0db38"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<leetcode_b0f0db38>(1)",
+            "request": "launch",
+            "mainClass": "java.test",
+            "projectName": "leetcode_b0f0db38"
+        }
+    ]
+}
